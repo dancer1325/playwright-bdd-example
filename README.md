@@ -4,6 +4,9 @@
 
 ## how has it been created?
 
+* `npm init -y`
+* `npm install playwright-bdd @playwright/test --save-dev`
+* `npx playwright install`
 * | project's root
   * create "playwright.config.js"
 * | [features/](features)
