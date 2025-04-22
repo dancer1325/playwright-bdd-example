@@ -5,7 +5,6 @@
 ## how to run locally?
 
 * `npm install`
-* `npx playwright install`
 * `npm run test`
    ```
    Running 2 tests using 1 worker
