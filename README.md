@@ -6,7 +6,7 @@
 
 * `npm install`
 * `npx playwright install`
-* `npm test`
+* `npm run test`
    ```
    Running 2 tests using 1 worker
    2 passed (2.3s)
